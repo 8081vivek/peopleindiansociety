@@ -14,7 +14,7 @@ use App\Models\review_panel;
 Route::view('Admin','admin_login');
 Route::get('logoutAdmin',[AdminController::class,'logout']);
 Route::get('ad',[AdminController::class,'dashboard']);
-Route::view('/','n');
+Route::view('/','welcome');
 Route::view('h','header');
 Route::view('login','user_login');
 Route::view('user_register','/user_register');

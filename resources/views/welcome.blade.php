@@ -31,19 +31,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css">
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Montserrat:wght@700;800&family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "People of Indian Society",
-  "url": "https://tree.rawsio.com/",
-  "logo": "https://tree.rawsio.com/image/logo1.jpeg",
-  "sameAs": [
-    "https://instagram.com/",
-    "https://facebook.com/"
-  ]
-}
-</script>
+
 <style>
 
         /* CSS Variables */
